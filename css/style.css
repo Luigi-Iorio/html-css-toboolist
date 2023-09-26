@@ -7,6 +7,7 @@
 
 body {
   font-family: "Roboto", sans-serif;
+  background-color: #f6f8f9;
 }
 
 /* HEADER */
@@ -31,7 +32,6 @@ header span {
 
 /* MAIN */
 main {
-  background-color: #f6f8f9;
   padding: 50px 0;
 }
 
