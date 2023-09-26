@@ -189,3 +189,58 @@ li {
   background-color: #ff9b00;
   margin-left: 10px;
 }
+
+/* schedule */
+.schedule::before {
+  content: "\2715";
+  padding: 2px 6px;
+  text-align: center;
+  border-radius: 70%;
+  border: 1px solid #ff4242;
+  color: #ff4242;
+  margin-right: 10px;
+}
+
+/* homepage */
+.homepage::before {
+  content: "\2713";
+  padding: 2px 6px;
+  text-align: center;
+  border-radius: 70%;
+  border: 1px solid #61d4c0;
+  color: #61d4c0;
+  margin-right: 10px;
+}
+
+.homepage::after {
+  content: "Website";
+  font-size: 14px;
+  padding: 6px 10px;
+  text-align: center;
+  border-radius: 15px;
+  color: white;
+  background-color: #ec4a9d;
+  margin-left: 10px;
+}
+
+/* onboard */
+.onboard::before {
+  content: "\2713";
+  padding: 2px 6px;
+  text-align: center;
+  border-radius: 70%;
+  border: 1px solid #61d4c0;
+  color: #61d4c0;
+  margin-right: 10px;
+}
+
+.onboard::after {
+  content: "sales";
+  font-size: 14px;
+  padding: 6px 10px;
+  text-align: center;
+  border-radius: 15px;
+  color: white;
+  background-color: #a3d116;
+  margin-left: 10px;
+}
