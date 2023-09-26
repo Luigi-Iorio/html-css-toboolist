@@ -88,9 +88,9 @@ main h3 {
 }
 
 main h3::before {
-  content: "\25BC";
+  content: "\25BE";
   margin-right: 5px;
-  font-size: 10px;
+  font-size: 20px;
 }
 
 ul {
