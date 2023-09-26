@@ -28,3 +28,51 @@ header span {
   vertical-align: middle;
   font-weight: 700;
 }
+
+/* MAIN */
+main {
+  background-color: #f6f8f9;
+  padding: 50px 0;
+}
+
+.container {
+  border-radius: 10px;
+  width: 70%;
+  margin: 0 auto;
+  background-color: white;
+}
+
+.pad {
+  padding: 10px 50px;
+}
+
+.button {
+  border-bottom: 3px solid #d1d7db;
+}
+
+/* reset button */
+button {
+  border: none;
+  margin: 0;
+  padding: 0;
+  width: auto;
+  overflow: visible;
+  background: transparent;
+}
+/* /reset button */
+
+.add {
+  border-radius: 10px;
+  padding: 10px;
+}
+
+#task {
+  background-color: #14aaf5;
+  color: white;
+}
+
+#section {
+  color: #d1d7db;
+  background-color: white;
+  border: 2px solid #d1d7db;
+}
