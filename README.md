@@ -1,9 +1,26 @@
 # Toboolist
 
-É stato tiprodotto il layout di una To Do List, la pagina e'suddivisa in sezioni:
+Questo repository contiene il mio progetto per l'esercizio di creazione di una To Do List basata sul layout fornito. L'obiettivo principale di questo esercizio è imparare a progettare e sviluppare una pagina web utilizzando HTML, CSS.
 
-- Intestazione
-- Buttons
-- New tasks
-- Today
-- Upcoming
+## Layout di riferimento
+
+![Layout di riferimento](img/Screenshot.png)
+
+## Struttura
+
+```bash
+.
+├── index.html
+│
+├── css
+│   └── style.css
+│
+├── img
+│   ├── Logo.png
+│   └── Screenshot.png
+│
+├── fonts
+│   └── Roboto
+│
+└── README.md
+```
